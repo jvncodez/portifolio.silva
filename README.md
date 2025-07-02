@@ -64,7 +64,8 @@ Sou um profissional de tecnologia com foco em **infraestrutura, automação e su
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jvncodez&show_icons=true&theme=radical" alt="Jvn GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?jvncodez=&layoujvncodezt=compact&theme=radical" alt="Top Langs" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvncodez&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 </p>
 
 ---
